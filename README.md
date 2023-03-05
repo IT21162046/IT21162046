@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21162046&" alt="it21162046" /></p>
 
-![Footer](./github-header-image (1).png)
+<img align="center" alt="fotter" src="github-header-image (1).png">
