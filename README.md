@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21162046&label=Profile%20views&color=0e75b6&style=flat" alt="it21162046" /> </p>
 
-- 🔭 I’m studing at **Sri Lanka Institute of Information Technology(SLIIT)**
+- 🔭 I’m studying at **Sri Lanka Institute of Information Technology(SLIIT)**
 
-- 🌱 I’m currently learning **Information Technology**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
